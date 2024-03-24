@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaboateng/bootstrap-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaboateng/bootstrap-assignment/issues"
+  },
+  "homepage": "https://github.com/Jaboateng/bootstrap-assignment#readme"
+}
