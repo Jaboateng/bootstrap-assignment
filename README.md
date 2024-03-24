@@ -1,0 +1,1 @@
+Use Bootstrap (https://getbootstrap.com/) front end framework + your node.js lite-server to create the Overview page of https://www.figma.com/file/7BcyiLTx79S614bjpjOnbv/INM320-autumn-2022 (you need to sign up for a free Figma account).
